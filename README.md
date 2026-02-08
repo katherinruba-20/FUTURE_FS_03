@@ -17,7 +17,7 @@ Jerus tasty bites is a local restaurant that serves fresh and delicious meals to
 - JavaScript
 
 ## Live Demo
-(Add your GitHub Pages link here)
+https://katherinruba-20.github.io/FUTURE_FS_03/
 
 ## Author
 KATHERIN RUBA SJ
